@@ -3,3 +3,4 @@
 - Added all the python programs that are taught in VTU 3 rd Semester. 
 - WEATHER.PY WILL REQUIRE WEATHER.JSON FILE 
 - PDFMERGER.PY WILL REQUIRE PDF1.PDF AND PDF2.PDF
+- EMAIL.PY WILL REQUIRE TEST FILE 
