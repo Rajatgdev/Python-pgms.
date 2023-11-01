@@ -1,0 +1,11 @@
+{
+  "main": {
+    "temperature" : 298.47,
+    "humidity": 65
+  },
+  "weather": [
+    {
+      "description": "moderate rain"
+    }
+  ]
+}
